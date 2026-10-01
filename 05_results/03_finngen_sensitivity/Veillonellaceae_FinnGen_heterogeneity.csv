@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"DkZLFR","Y2HJDL","FinnGen gastric cancer","Veillonellaceae","MR Egger",2.304224622466,7,0.941104236922758
+"DkZLFR","Y2HJDL","FinnGen gastric cancer","Veillonellaceae","Inverse variance weighted",2.40145875828279,8,0.966167727987582

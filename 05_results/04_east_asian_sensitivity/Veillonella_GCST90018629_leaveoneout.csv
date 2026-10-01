@@ -1,0 +1,6 @@
+"exposure","outcome","id.exposure","id.outcome","samplesize","SNP","b","se","p"
+"Veillonella","East Asian gastric cancer","taZpuT","QL0lHn",NA,"rs1882878",0.0786750484385645,0.171173359299431,0.645787537083557
+"Veillonella","East Asian gastric cancer","taZpuT","QL0lHn",NA,"rs2013594",0.0738059382015967,0.167603848066874,0.659676789798554
+"Veillonella","East Asian gastric cancer","taZpuT","QL0lHn",NA,"rs62376424",0.0843714536279382,0.142880974140926,0.554854367480848
+"Veillonella","East Asian gastric cancer","taZpuT","QL0lHn",NA,"rs742016",0.0615670417785882,0.165142195612473,0.709288147683813
+"Veillonella","East Asian gastric cancer","taZpuT","QL0lHn",NA,"All",0.0753180102994049,0.138951792857616,0.587788072662323

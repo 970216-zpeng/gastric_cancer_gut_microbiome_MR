@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"DkZLFR","GCST90018849","Gastric cancer","Veillonellaceae","MR Egger",2.22220355641685,7,0.946525402911993
+"DkZLFR","GCST90018849","Gastric cancer","Veillonellaceae","Inverse variance weighted",2.34958045356285,8,0.968376522552411

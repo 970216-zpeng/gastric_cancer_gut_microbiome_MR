@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ebi-a-GCST90018849","Rq6Sbb","Veillonella","Gastric cancer || id:ebi-a-GCST90018849","Inverse variance weighted",4,0.00337045801857075,0.0753779615945716,0.964335191528553
+"ebi-a-GCST90018849","Rq6Sbb","Veillonella","Gastric cancer || id:ebi-a-GCST90018849","Weighted median",4,0.0269911038811404,0.086313163289952,0.754499988722168
+"ebi-a-GCST90018849","Rq6Sbb","Veillonella","Gastric cancer || id:ebi-a-GCST90018849","MR Egger",4,0.028791966122678,0.365700011995442,0.944414772438116
+"ebi-a-GCST90018849","Rq6Sbb","Veillonella","Gastric cancer || id:ebi-a-GCST90018849","Weighted mode",4,0.124099169551803,0.146015210826735,0.457825149789137
+"ebi-a-GCST90018849","Rq6Sbb","Veillonella","Gastric cancer || id:ebi-a-GCST90018849","Simple mode",4,0.122706352054746,0.138444301078527,0.440724933104332

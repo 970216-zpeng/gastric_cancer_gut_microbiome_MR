@@ -1,0 +1,19 @@
+Analysis,Threshold,SNPs,Cochran Q (df),Q P value,MR-Egger intercept (SE),Egger P value,MR-PRESSO global P,MR-PRESSO outliers
+MiBioGen Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,4,0.758 (3),0.860,0.1231 (0.2048),0.609,0.842,0
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,9,2.350 (8),0.968,-0.0116 (0.0325),0.732,0.969,0
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,8,5.489 (7),0.600,0.1468 (0.0794),0.114,0.675,0
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,19,17.985 (18),0.457,0.0149 (0.0114),0.206,0.403,0
+MiBioGen Veillonella → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,4,0.346 (3),0.951,-0.1418 (0.6853),0.855,0.952,0
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,9,2.401 (8),0.966,0.0185 (0.0592),0.764,0.964,0
+MiBioGen Veillonella → East Asian GC,P ≤ 5 × 10^-6,4,0.088 (3),0.993,0.0377 (0.2225),0.881,0.995,0
+MiBioGen Veillonellaceae → East Asian GC,P ≤ 5 × 10^-6,5,2.591 (4),0.628,0.0059 (0.0745),0.942,0.643,0
+GCST90018849 GC → MiBioGen Veillonella (reverse),P ≤ 5 × 10^-8,4,3.960 (3),0.266,-0.0039 (0.0543),0.949,0.334,0
+GCST90018849 GC → MiBioGen Veillonellaceae (reverse),P ≤ 5 × 10^-8,4,4.932 (3),0.177,-0.0051 (0.0463),0.922,0.293,0
+Swedish 2026 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,4,0.937 (3),0.816,-0.0091 (0.0390),0.837,0.875,0
+Swedish 2026 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,3,0.728 (2),0.695,-0.0024 (0.0757),0.979,Not feasible,—
+DMP 2022 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,4,1.210 (3),0.751,0.0400 (0.0716),0.633,0.865,0
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,6,5.941 (5),0.312,0.0666 (0.0603),0.331,0.410,0
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,10,5.766 (9),0.763,0.0001 (0.0275),0.998,0.803,0
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,10,15.032 (9),0.090,-0.0073 (0.0411),0.863,0.178,0
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,6,3.938 (5),0.558,0.0062 (0.0469),0.900,0.698,0
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,12,7.948 (11),0.718,0.0045 (0.0273),0.871,0.784,0

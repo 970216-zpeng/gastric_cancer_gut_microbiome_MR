@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ebi-a-GCST90018849","Tf4nkX","Veillonellaceae","Gastric cancer || id:ebi-a-GCST90018849","MR Egger",4.90221257384703,2,0.0861981738196742
+"ebi-a-GCST90018849","Tf4nkX","Veillonellaceae","Gastric cancer || id:ebi-a-GCST90018849","Inverse variance weighted",4.93188400879546,3,0.176853423510849

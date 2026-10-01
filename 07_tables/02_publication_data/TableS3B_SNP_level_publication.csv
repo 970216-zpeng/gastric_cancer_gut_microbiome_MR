@@ -1,0 +1,126 @@
+Analysis,Threshold,SNP,EA / OA,β exposure (SE),P exposure,β outcome (SE),P outcome,F statistic
+MiBioGen Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,rs1882878,A / G,-0.07690 (0.01639),2.98e-06,0.00290 (0.01720),0.8643,22.0
+MiBioGen Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,rs2013594,C / T,0.07207 (0.01552),3.42e-06,0.01620 (0.01670),0.3333,21.6
+MiBioGen Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,rs62376424,C / T,-0.07622 (0.01635),3.65e-06,-0.01430 (0.03280),0.6634,21.7
+MiBioGen Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,rs742016,A / G,-0.06886 (0.01498),4.66e-06,-0.01120 (0.01650),0.4959,21.1
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs111810795,C / T,-0.08671 (0.01806),1.73e-06,-0.05360 (0.07240),0.4591,23.1
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs12186441,G / A,0.20810 (0.04540),4.53e-06,0.03610 (0.10270),0.7249,21.0
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs12668619,A / G,0.05530 (0.01177),2.57e-06,0.01600 (0.04650),0.7312,22.1
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs12741784,C / T,-0.06215 (0.01193),1.28e-07,-0.06170 (0.04740),0.1930,27.2
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs1442060,A / G,0.05140 (0.01121),4.51e-06,-0.00320 (0.01570),0.8391,21.0
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs2175069,G / A,0.05268 (0.01149),4.64e-06,0.01230 (0.01580),0.4349,21.0
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs4461038,G / A,0.05550 (0.01195),3.73e-06,0.01900 (0.02150),0.3764,21.6
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs4797169,T / C,0.05878 (0.01283),4.49e-06,0.01840 (0.01840),0.3175,21.0
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs79535861,A / C,0.10067 (0.02070),1.58e-06,0.03500 (0.05100),0.4922,23.6
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs11141494,G / A,-0.07834 (0.01744),9.75e-06,-0.00510 (0.01910),0.7910,20.2
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs1882878,A / G,-0.07690 (0.01639),2.98e-06,0.00290 (0.01720),0.8643,22.0
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs2013594,C / T,0.07207 (0.01552),3.42e-06,0.01620 (0.01670),0.3333,21.6
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs55807413,A / G,0.10733 (0.02376),5.51e-06,-0.11910 (0.06890),0.0839,20.4
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs62376424,C / T,-0.07622 (0.01635),3.65e-06,-0.01430 (0.03280),0.6634,21.7
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs6656807,G / A,-0.07031 (0.01540),5.50e-06,0.02180 (0.04610),0.6361,20.9
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs7359080,C / A,-0.13539 (0.03035),7.40e-06,0.07750 (0.08990),0.3886,19.9
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs742016,A / G,-0.06886 (0.01498),4.66e-06,-0.01120 (0.01650),0.4959,21.1
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs111810795,C / T,-0.08671 (0.01806),1.73e-06,-0.05360 (0.07240),0.4591,23.1
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs114889439,A / G,-0.25381 (0.05392),6.19e-06,0.03910 (0.11860),0.7414,22.2
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs11700976,C / A,0.05033 (0.01138),9.25e-06,-0.01670 (0.03470),0.6304,19.6
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs12186441,G / A,0.20810 (0.04540),4.53e-06,0.03610 (0.10270),0.7249,21.0
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs12668619,A / G,0.05530 (0.01177),2.57e-06,0.01600 (0.04650),0.7312,22.1
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs12741784,C / T,-0.06215 (0.01193),1.28e-07,-0.06170 (0.04740),0.1930,27.2
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs1442060,A / G,0.05140 (0.01121),4.51e-06,-0.00320 (0.01570),0.8391,21.0
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs1693340,T / C,0.08189 (0.01825),9.25e-06,-0.09170 (0.07310),0.2094,20.1
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs2175069,G / A,0.05268 (0.01149),4.64e-06,0.01230 (0.01580),0.4349,21.0
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs2561116,T / G,-0.08362 (0.01872),7.89e-06,0.00720 (0.02320),0.7544,20.0
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs2585520,G / T,-0.09050 (0.02004),5.27e-06,-0.04050 (0.02020),0.0454,20.4
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs4263802,A / G,-0.05094 (0.01149),7.45e-06,0.01670 (0.01890),0.3755,19.6
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs4461038,G / A,0.05550 (0.01195),3.73e-06,0.01900 (0.02150),0.3764,21.6
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs4797169,T / C,0.05878 (0.01283),4.49e-06,0.01840 (0.01840),0.3175,21.0
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs61264131,A / C,0.20237 (0.04644),6.75e-06,-0.01700 (0.02050),0.4057,19.0
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs6692542,G / A,-0.05344 (0.01183),8.68e-06,-0.00580 (0.02490),0.8150,20.4
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs6909981,C / T,-0.06387 (0.01418),5.48e-06,0.02020 (0.02000),0.3119,20.3
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs79535861,A / C,0.10067 (0.02070),1.58e-06,0.03500 (0.05100),0.4922,23.6
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs9345168,A / C,-0.05091 (0.01133),8.49e-06,-0.04840 (0.02310),0.0360,20.2
+MiBioGen Veillonella → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs1882878,A / G,-0.07690 (0.01639),2.98e-06,0.01000 (0.06210),0.8725,22.0
+MiBioGen Veillonella → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs2013594,C / T,0.07207 (0.01552),3.42e-06,0.01980 (0.05830),0.7342,21.6
+MiBioGen Veillonella → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs62376424,C / T,-0.07622 (0.01635),3.65e-06,-0.02160 (0.06140),0.7243,21.7
+MiBioGen Veillonella → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs742016,A / G,-0.06886 (0.01498),4.66e-06,0.01870 (0.06020),0.7566,21.1
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs111810795,C / T,-0.08671 (0.01806),1.73e-06,-0.02320 (0.09510),0.8074,23.1
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs12186441,G / A,0.20810 (0.04540),4.53e-06,0.02800 (0.13980),0.8413,21.0
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs12668619,A / G,0.05530 (0.01177),2.57e-06,0.02360 (0.06020),0.6945,22.1
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs12741784,C / T,-0.06215 (0.01193),1.28e-07,-0.01940 (0.06520),0.7661,27.2
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs1442060,A / G,0.05140 (0.01121),4.51e-06,0.00580 (0.05730),0.9192,21.0
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs2175069,G / A,0.05268 (0.01149),4.64e-06,0.00740 (0.05870),0.8997,21.0
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs4461038,G / A,0.05550 (0.01195),3.73e-06,0.01910 (0.06240),0.7596,21.6
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs4797169,T / C,0.05878 (0.01283),4.49e-06,0.11590 (0.06680),0.0828,21.0
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,rs79535861,A / C,0.10067 (0.02070),1.58e-06,0.08560 (0.09920),0.3879,23.6
+MiBioGen Veillonella → East Asian GC,P ≤ 5 × 10^-6,rs1882878,A / G,-0.07690 (0.01639),2.98e-06,-0.00529 (0.01830),0.7724,22.0
+MiBioGen Veillonella → East Asian GC,P ≤ 5 × 10^-6,rs2013594,C / T,0.07207 (0.01552),3.42e-06,0.00567 (0.01791),0.7516,21.6
+MiBioGen Veillonella → East Asian GC,P ≤ 5 × 10^-6,rs62376424,C / T,-0.07622 (0.01635),3.65e-06,0.00629 (0.04547),0.8900,21.7
+MiBioGen Veillonella → East Asian GC,P ≤ 5 × 10^-6,rs742016,A / G,-0.06886 (0.01498),4.66e-06,-0.00748 (0.01770),0.6726,21.1
+MiBioGen Veillonellaceae → East Asian GC,P ≤ 5 × 10^-6,rs1442060,A / G,0.05140 (0.01121),4.51e-06,-0.00798 (0.01677),0.6340,21.0
+MiBioGen Veillonellaceae → East Asian GC,P ≤ 5 × 10^-6,rs2175069,G / A,0.05268 (0.01149),4.64e-06,0.01377 (0.01682),0.4131,21.0
+MiBioGen Veillonellaceae → East Asian GC,P ≤ 5 × 10^-6,rs4461038,G / A,0.05550 (0.01195),3.73e-06,0.02764 (0.02416),0.2525,21.6
+MiBioGen Veillonellaceae → East Asian GC,P ≤ 5 × 10^-6,rs4797169,T / C,0.05878 (0.01283),4.49e-06,0.02591 (0.01973),0.1890,21.0
+MiBioGen Veillonellaceae → East Asian GC,P ≤ 5 × 10^-6,rs79535861,A / C,0.10067 (0.02070),1.58e-06,-0.02207 (0.06806),0.7457,23.6
+GCST90018849 GC → MiBioGen Veillonella (reverse),P ≤ 5 × 10^-8,rs10078575,G / A,-0.17020 (0.01640),3.42e-25,0.02665 (0.01857),0.1376,107.7
+GCST90018849 GC → MiBioGen Veillonella (reverse),P ≤ 5 × 10^-8,rs2597736,G / T,-0.12490 (0.01990),3.43e-10,-0.01647 (0.02342),0.5076,39.4
+GCST90018849 GC → MiBioGen Veillonella (reverse),P ≤ 5 × 10^-8,rs2853940,C / T,0.10870 (0.01590),8.20e-12,0.00057 (0.01542),0.9775,46.7
+GCST90018849 GC → MiBioGen Veillonella (reverse),P ≤ 5 × 10^-8,rs9277947,T / C,-0.20960 (0.03350),3.94e-10,-0.02967 (0.02502),0.3021,39.1
+GCST90018849 GC → MiBioGen Veillonellaceae (reverse),P ≤ 5 × 10^-8,rs10078575,G / A,-0.17020 (0.01640),3.42e-25,0.00878 (0.01425),0.5686,107.7
+GCST90018849 GC → MiBioGen Veillonellaceae (reverse),P ≤ 5 × 10^-8,rs2597736,G / T,-0.12490 (0.01990),3.43e-10,-0.03320 (0.01790),0.0704,39.4
+GCST90018849 GC → MiBioGen Veillonellaceae (reverse),P ≤ 5 × 10^-8,rs2853940,C / T,0.10870 (0.01590),8.20e-12,-0.01220 (0.01179),0.3069,46.7
+GCST90018849 GC → MiBioGen Veillonellaceae (reverse),P ≤ 5 × 10^-8,rs9277947,T / C,-0.20960 (0.03350),3.94e-10,-0.00422 (0.01915),0.9040,39.1
+Swedish 2026 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,rs17217035,C / T,0.04520 (0.00980),4.14e-06,-0.00730 (0.01880),0.6976,21.3
+Swedish 2026 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,rs56393618,A / G,-0.06590 (0.01380),1.73e-06,-0.04740 (0.06020),0.4312,22.8
+Swedish 2026 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,rs61842156,G / T,-0.06610 (0.01420),3.34e-06,0.01250 (0.02110),0.5539,21.7
+Swedish 2026 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,rs75598363,T / C,0.10110 (0.01920),1.45e-07,-0.00480 (0.02560),0.8512,27.7
+Swedish 2026 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs147308406,A / G,-0.15260 (0.03340),4.78e-06,0.14520 (0.16320),0.3737,20.9
+Swedish 2026 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs61842156,G / T,-0.06750 (0.01420),2.01e-06,0.01250 (0.02110),0.5539,22.6
+Swedish 2026 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs75598363,T / C,0.10130 (0.01920),1.38e-07,-0.00480 (0.02560),0.8512,27.8
+DMP 2022 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,rs2535959,C / A,0.14309 (0.02985),1.64e-06,0.03080 (0.04520),0.4955,23.0
+DMP 2022 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,rs3000780,A / G,0.15774 (0.03235),1.08e-06,0.00510 (0.01730),0.7670,23.8
+DMP 2022 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,rs72743290,T / C,0.23464 (0.04960),2.24e-06,-0.06090 (0.07270),0.4025,22.4
+DMP 2022 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,rs9847942,A / G,-0.21495 (0.04611),3.14e-06,-0.00340 (0.01720),0.8459,21.7
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs11881631,G / A,0.22563 (0.04879),3.76e-06,-0.11280 (0.08630),0.1912,21.4
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs2347496,G / T,-0.09305 (0.01973),2.39e-06,-0.01090 (0.01990),0.5857,22.3
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs258816,A / C,0.10004 (0.02111),2.16e-06,0.00270 (0.01620),0.8690,22.4
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs35025485,A / G,0.19416 (0.03752),2.28e-07,0.03760 (0.08840),0.6707,26.8
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs62024270,A / G,0.10057 (0.02012),5.81e-07,0.07470 (0.04610),0.1051,25.0
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,rs7746214,A / G,0.10272 (0.02249),4.95e-06,0.03110 (0.01760),0.0770,20.9
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs116967459,T / C,0.11530 (0.02570),7.55e-06,0.02520 (0.12110),0.8349,20.1
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs13255553,A / C,0.04710 (0.01050),6.57e-06,-0.07040 (0.05740),0.2196,20.1
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs147308406,A / G,-0.15170 (0.03340),5.45e-06,0.14520 (0.16320),0.3737,20.6
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs170629,A / G,-0.04520 (0.01010),7.79e-06,-0.01310 (0.01640),0.4257,20.0
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs17217035,C / T,0.04520 (0.00980),4.14e-06,-0.00730 (0.01880),0.6976,21.3
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs56393618,A / G,-0.06590 (0.01380),1.73e-06,-0.04740 (0.06020),0.4312,22.8
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs61842156,G / T,-0.06610 (0.01420),3.34e-06,0.01250 (0.02110),0.5539,21.7
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs62384394,C / A,0.11890 (0.02680),9.26e-06,0.01030 (0.13280),0.9379,19.7
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs73579339,A / G,-0.04620 (0.01040),9.39e-06,0.04670 (0.03320),0.1597,19.7
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs75598363,T / C,0.10110 (0.01920),1.45e-07,-0.00480 (0.02560),0.8512,27.7
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs116967459,T / C,0.11680 (0.02570),5.75e-06,0.02520 (0.12110),0.8349,20.7
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs13255553,A / C,0.04700 (0.01050),6.90e-06,-0.07040 (0.05740),0.2196,20.0
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs147308406,A / G,-0.15260 (0.03340),4.78e-06,0.14520 (0.16320),0.3737,20.9
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs170629,A / G,-0.04510 (0.01010),8.42e-06,-0.01310 (0.01640),0.4257,19.9
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs367811915,C / T,0.16880 (0.03800),9.13e-06,0.52340 (0.19200),0.0064,19.7
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs61842156,G / T,-0.06750 (0.01420),2.01e-06,0.01250 (0.02110),0.5539,22.6
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs62297968,T / C,0.12210 (0.02760),9.41e-06,-0.19530 (0.12350),0.1139,19.6
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs62384394,C / A,0.12090 (0.02680),6.56e-06,0.01030 (0.13280),0.9379,20.4
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs73579339,A / G,-0.04710 (0.01040),6.16e-06,0.04670 (0.03320),0.1597,20.5
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs75598363,T / C,0.10130 (0.01920),1.38e-07,-0.00480 (0.02560),0.8512,27.8
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs12978412,T / C,0.13144 (0.02950),8.35e-06,0.00550 (0.01810),0.7613,19.9
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs2535959,C / A,0.14309 (0.02985),1.64e-06,0.03080 (0.04520),0.4955,23.0
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs3000780,A / G,0.15774 (0.03235),1.08e-06,0.00510 (0.01730),0.7670,23.8
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs4462945,T / C,0.23231 (0.05135),6.06e-06,0.11990 (0.06860),0.0805,20.5
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs72743290,T / C,0.23464 (0.04960),2.24e-06,-0.06090 (0.07270),0.4025,22.4
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs9847942,A / G,-0.21495 (0.04611),3.14e-06,-0.00340 (0.01720),0.8459,21.7
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs11804833,T / C,-0.12668 (0.02786),5.45e-06,-0.05400 (0.06220),0.3854,20.7
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs11881631,G / A,0.22563 (0.04879),3.76e-06,-0.11280 (0.08630),0.1912,21.4
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs1882135,G / T,-0.09073 (0.02025),7.43e-06,0.00180 (0.01830),0.9233,20.1
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs2347496,G / T,-0.09305 (0.01973),2.39e-06,-0.01090 (0.01990),0.5857,22.3
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs258816,A / C,0.10004 (0.02111),2.16e-06,0.00270 (0.01620),0.8690,22.4
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs28393833,T / C,-0.11155 (0.02491),7.56e-06,-0.02610 (0.01790),0.1451,20.0
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs35025485,A / G,0.19416 (0.03752),2.28e-07,0.03760 (0.08840),0.6707,26.8
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs6105994,A / G,0.09310 (0.02056),5.95e-06,0.00980 (0.01680),0.5591,20.5
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs62024270,A / G,0.10057 (0.02012),5.81e-07,0.07470 (0.04610),0.1051,25.0
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs62165977,T / C,0.11790 (0.02594),5.51e-06,0.03600 (0.02310),0.1188,20.7
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs6701211,A / G,-0.17341 (0.03858),6.95e-06,-0.02610 (0.01930),0.1780,20.2
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,rs7746214,A / G,0.10272 (0.02249),4.95e-06,0.03110 (0.01760),0.0770,20.9

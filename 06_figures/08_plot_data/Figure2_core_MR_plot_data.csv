@@ -1,0 +1,11 @@
+analysis,analysis_display,direction,panel,subgroup,exposure,outcome,instrument_threshold,y_label,effect,lower,upper,estimate_text,p_text,order_within_panel
+Primary,Primary GC,Forward,A. Forward MR,Veillonella,Veillonella,GCST90018849,P <= 5e-6,Veillonella — Primary GC,1.1257939609101102,0.8767001977908135,1.4456618643584331,OR 1.13 (0.88–1.45),0.353,10
+Threshold sensitivity,Threshold sensitivity,Forward,A. Forward MR,Veillonella,Veillonella,GCST90018849,P <= 1e-5,Veillonella — Threshold sensitivity,1.043873501130128,0.8442427976442528,1.2907091294142587,OR 1.04 (0.84–1.29),0.692,9
+FinnGen sensitivity,FinnGen,Forward,A. Forward MR,Veillonella,Veillonella,FinnGen gastric cancer,P <= 5e-6,Veillonella — FinnGen,1.0523934376055106,0.4699575900985566,2.3566636029495323,OR 1.05 (0.47–2.36),0.901,8
+East Asian sensitivity,East Asian,Forward,A. Forward MR,Veillonella,Veillonella,GCST90018629,P <= 5e-6,Veillonella — East Asian,1.078226983655465,0.8211680478411797,1.415755802163911,OR 1.08 (0.82–1.42),0.588,7
+Primary,Primary GC,Forward,A. Forward MR,Veillonellaceae,Veillonellaceae,GCST90018849,P <= 5e-6,Veillonellaceae — Primary GC,1.2754184151325156,0.9700059205884148,1.6769919637937587,OR 1.28 (0.97–1.68),0.082,6
+Threshold sensitivity,Threshold sensitivity,Forward,A. Forward MR,Veillonellaceae,Veillonellaceae,GCST90018849,P <= 1e-5,Veillonellaceae — Threshold sensitivity,1.0417067518261287,0.9118299287404228,1.1900826268108406,OR 1.04 (0.91–1.19),0.548,5
+FinnGen sensitivity,FinnGen,Forward,A. Forward MR,Veillonellaceae,Veillonellaceae,FinnGen gastric cancer,P <= 5e-6,Veillonellaceae — FinnGen,1.5667134453928655,0.8153063592794476,3.010636421558279,OR 1.57 (0.82–3.01),0.178,4
+East Asian sensitivity,East Asian,Forward,A. Forward MR,Veillonellaceae,Veillonellaceae,GCST90018629,P <= 5e-6,Veillonellaceae — East Asian,1.2233795040660236,0.8806344768323211,1.6995217088846766,OR 1.22 (0.88–1.70),0.229,3
+Reverse MR,Reverse MR,Reverse,B. Reverse MR,Reverse,Gastric cancer,Veillonella,P <= 5e-8,Gastric cancer → Veillonella,0.0033704580185707,-0.14437034670678964,0.15111126274393102,β 0.0034 (-0.144 to 0.151),0.964,2
+Reverse MR,Reverse MR,Reverse,B. Reverse MR,Reverse,Gastric cancer,Veillonellaceae,P <= 5e-8,Gastric cancer → Veillonellaceae,-0.0039220822048277,-0.1301902351540991,0.1223460707444437,β -0.0039 (-0.130 to 0.122),0.951,1

@@ -1,0 +1,10 @@
+﻿Data source,Trait,GWAS ID,Ancestry,Sample size,Analytical role
+MiBioGen,Veillonella,GCST90017088,European,"14,306",Primary exposure
+MiBioGen,Veillonellaceae,GCST90016956,European,"14,306",Primary exposure
+"Sakaue et al., 2021",Gastric cancer,GCST90018849,European,"1,029 cases / 475,087 controls",Primary outcome
+FinnGen,Gastric cancer,finn-b-C3_STOMACH,European,"633 cases / 218,159 controls",Alternative European outcome sensitivity analysis
+"Sakaue et al., 2021",Gastric cancer,GCST90018629,East Asian,"7,921 cases / 159,201 controls",Cross-ancestry outcome sensitivity analysis
+"Swedish microbiome GWAS, 2026",Veillonella,GCST90671339,European,"16,017",Post-registration primary exposure-source robustness analysis
+"Swedish microbiome GWAS, 2026",Veillonellaceae,GCST90671681,European,"16,017",Post-registration primary exposure-source robustness analysis
+"Dutch Microbiome Project, 2022",Veillonella,GCST90027724,European,"7,738",Post-registration secondary exposure-source robustness analysis
+"Dutch Microbiome Project, 2022",Veillonellaceae,GCST90027679,European,"7,738",Post-registration secondary exposure-source robustness analysis

@@ -1,0 +1,19 @@
+Analysis,Threshold,Clumped / F > 10,Available in outcome,Harmonised rows,Final MR SNPs
+MiBioGen Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,6,4,4,4
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,9,9,9,9
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,11,8,8,8
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,21,19,19,19
+MiBioGen Veillonella → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,6,6,6,4
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,9,9,9,9
+MiBioGen Veillonella → East Asian GC,P ≤ 5 × 10^-6,6,6,6,4
+MiBioGen Veillonellaceae → East Asian GC,P ≤ 5 × 10^-6,9,5,5,5
+GCST90018849 GC → MiBioGen Veillonella (reverse),P ≤ 5 × 10^-8,10,7,7,4
+GCST90018849 GC → MiBioGen Veillonellaceae (reverse),P ≤ 5 × 10^-8,10,7,7,4
+Swedish 2026 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,7,7,4,4
+Swedish 2026 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,8,8,3,3
+DMP 2022 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,5,5,4,4
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,7,7,6,6
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,15,15,10,10
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,18,18,10,10
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,8,8,6,6
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,13,13,12,12

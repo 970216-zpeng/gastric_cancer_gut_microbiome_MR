@@ -1,0 +1,12 @@
+"exposure","outcome","id.exposure","id.outcome","samplesize","SNP","b","se","p"
+"Veillonellaceae","FinnGen gastric cancer","DkZLFR","Y2HJDL",NA,"rs111810795",0.267556059914105,1.09674919387204,0.807266653200764
+"Veillonellaceae","FinnGen gastric cancer","DkZLFR","Y2HJDL",NA,"rs12186441",0.134553283100108,0.671805320621252,0.841256814884185
+"Veillonellaceae","FinnGen gastric cancer","DkZLFR","Y2HJDL",NA,"rs12668619",0.426755393211696,1.08858790980272,0.695038575968558
+"Veillonellaceae","FinnGen gastric cancer","DkZLFR","Y2HJDL",NA,"rs12741784",0.312172138797526,1.04915584791746,0.766049684972132
+"Veillonellaceae","FinnGen gastric cancer","DkZLFR","Y2HJDL",NA,"rs1442060",0.112835198356497,1.11473394238401,0.919374518318016
+"Veillonellaceae","FinnGen gastric cancer","DkZLFR","Y2HJDL",NA,"rs2175069",0.140483567219488,1.11437640483567,0.899680681362099
+"Veillonellaceae","FinnGen gastric cancer","DkZLFR","Y2HJDL",NA,"rs4461038",0.344165848296739,1.12439523213176,0.759536316829163
+"Veillonellaceae","FinnGen gastric cancer","DkZLFR","Y2HJDL",NA,"rs4797169",1.97176245621377,1.13644289969871,0.0827355022269695
+"Veillonellaceae","FinnGen gastric cancer","DkZLFR","Y2HJDL",NA,"rs79535861",0.850336757197067,0.985436989648938,0.388190676943927
+"Veillonellaceae","FinnGen gastric cancer","DkZLFR","Y2HJDL",NA,"All - Inverse variance weighted",0.448980078363543,0.333250721317094,0.17789195813311
+"Veillonellaceae","FinnGen gastric cancer","DkZLFR","Y2HJDL",NA,"All - MR Egger",0.20554900770125,0.848822288241613,0.815599366900472

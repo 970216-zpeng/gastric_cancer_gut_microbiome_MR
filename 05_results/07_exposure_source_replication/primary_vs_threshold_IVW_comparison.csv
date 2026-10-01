@@ -1,0 +1,9 @@
+"dataset","taxon","threshold","nsnp","OR_95CI","p_display","significant_0.0125"
+"DMP2022","Veillonella","P <= 1e-5",6,"1.040 (0.933-1.160)","0.47914",FALSE
+"DMP2022","Veillonella","P <= 5e-6",4,"1.018 (0.901-1.150)","0.77476",FALSE
+"DMP2022","Veillonellaceae","P <= 1e-5",12,"1.167 (1.045-1.303)","0.00616",TRUE
+"DMP2022","Veillonellaceae","P <= 5e-6",6,"1.145 (0.934-1.403)","0.19179",FALSE
+"Swedish2026","Veillonella","P <= 1e-5",10,"0.915 (0.684-1.225)","0.55274",FALSE
+"Swedish2026","Veillonella","P <= 5e-6",4,"0.921 (0.653-1.300)","0.63921",FALSE
+"Swedish2026","Veillonellaceae","P <= 1e-5",10,"0.925 (0.621-1.377)","0.70021",FALSE
+"Swedish2026","Veillonellaceae","P <= 5e-6",3,"0.878 (0.601-1.283)","0.50252",FALSE

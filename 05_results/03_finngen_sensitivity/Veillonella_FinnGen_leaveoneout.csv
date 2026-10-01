@@ -1,0 +1,6 @@
+"exposure","outcome","id.exposure","id.outcome","samplesize","SNP","b","se","p"
+"Veillonella","FinnGen gastric cancer","taZpuT","Y2HJDL",NA,"rs1882878",0.114505160735242,0.477954183332728,0.810660903685434
+"Veillonella","FinnGen gastric cancer","taZpuT","Y2HJDL",NA,"rs2013594",-0.026921806888197,0.477673203022425,0.955054779560945
+"Veillonella","FinnGen gastric cancer","taZpuT","Y2HJDL",NA,"rs62376424",-0.0308628604190806,0.478377587100406,0.948559613813845
+"Veillonella","FinnGen gastric cancer","taZpuT","Y2HJDL",NA,"rs742016",0.142780024099548,0.466123945773523,0.759366015580315
+"Veillonella","FinnGen gastric cancer","taZpuT","Y2HJDL",NA,"All",0.0510670345179517,0.411316253418449,0.901192426017098

@@ -1,0 +1,7 @@
+"exposure","outcome","id.exposure","id.outcome","samplesize","SNP","b","se","p"
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonellaceae","ebi-a-GCST90018849","Tf4nkX",NA,"rs10078575",-0.051596357226792,0.0837473560517039,0.537831586250781
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonellaceae","ebi-a-GCST90018849","Tf4nkX",NA,"rs2597736",0.265791833466773,0.1433354683747,0.0636913896978303
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonellaceae","ebi-a-GCST90018849","Tf4nkX",NA,"rs2853940",-0.112246550137994,0.108444342226311,0.300640248648413
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonellaceae","ebi-a-GCST90018849","Tf4nkX",NA,"rs9277947",0.020118034351145,0.0913540076335878,0.82569935412586
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonellaceae","ebi-a-GCST90018849","Tf4nkX",NA,"All - Inverse variance weighted",-0.00392208220482772,0.0644225270149344,0.951454298421181
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonellaceae","ebi-a-GCST90018849","Tf4nkX",NA,"All - MR Egger",0.0292682452016571,0.311751575355001,0.933760330298494

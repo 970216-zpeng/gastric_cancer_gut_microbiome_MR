@@ -1,0 +1,7 @@
+"exposure","outcome","id.exposure","id.outcome","samplesize","SNP","b","se","p"
+"Veillonella","Gastric cancer","taZpuT","GCST90018849",NA,"rs1882878",-0.0377129808079941,0.223676989619827,0.86610762184518
+"Veillonella","Gastric cancer","taZpuT","GCST90018849",NA,"rs2013594",0.224782086255269,0.231719804966852,0.332016645370841
+"Veillonella","Gastric cancer","taZpuT","GCST90018849",NA,"rs62376424",0.187610860963296,0.43032421255917,0.662854425757374
+"Veillonella","Gastric cancer","taZpuT","GCST90018849",NA,"rs742016",0.16265570289774,0.23962670516185,0.497272275066282
+"Veillonella","Gastric cancer","taZpuT","GCST90018849",NA,"All - Inverse variance weighted",0.118488529768088,0.127591185993567,0.353066539674173
+"Veillonella","Gastric cancer","taZpuT","GCST90018849",NA,"All - MR Egger",-1.56881138088201,2.810229678478,0.632828889989843

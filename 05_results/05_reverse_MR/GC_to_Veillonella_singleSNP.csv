@@ -1,0 +1,7 @@
+"exposure","outcome","id.exposure","id.outcome","samplesize","SNP","b","se","p"
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonella","ebi-a-GCST90018849","Rq6Sbb",NA,"rs10078575",-0.156592831962397,0.109088719153937,0.151155173535364
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonella","ebi-a-GCST90018849","Rq6Sbb",NA,"rs2597736",0.131883907125701,0.187489191353082,0.481793181795145
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonella","ebi-a-GCST90018849","Rq6Sbb",NA,"rs2853940",0.00521835326586936,0.141893284268629,0.970663127942286
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonella","ebi-a-GCST90018849","Rq6Sbb",NA,"rs9277947",0.141548664122137,0.119388835877863,0.235776131487487
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonella","ebi-a-GCST90018849","Rq6Sbb",NA,"All - Inverse variance weighted",0.00337045801857075,0.0753779615945716,0.964335191528553
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonella","ebi-a-GCST90018849","Rq6Sbb",NA,"All - MR Egger",0.028791966122678,0.365700011995442,0.944414772438116

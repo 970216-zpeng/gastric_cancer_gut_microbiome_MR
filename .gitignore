@@ -1,0 +1,78 @@
+# =========================
+# Raw GWAS data
+# =========================
+01_raw_data/
+
+# =========================
+# Clean / private derived data
+# =========================
+03_clean_data/
+
+# =========================
+# Private administrative materials
+# =========================
+00_admin/
+
+# =========================
+# Private manuscript working files
+# =========================
+08_manuscript/
+
+# =========================
+# Private snapshot archives
+# =========================
+09_snapshot/
+
+# =========================
+# Private exposure-source replication workspace
+# =========================
+02_intermediate_data/05_exposure_source_replication/
+
+# =========================
+# Private reference library
+# =========================
+MR_GC_reference/
+
+# =========================
+# R / RStudio local files
+# =========================
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.log
+*.bak
+
+# =========================
+# OS / editor files
+# =========================
+.DS_Store
+Thumbs.db
+# =========================
+# Private / intermediate results
+# =========================
+05_results/**/MRPRESSO.rds
+
+# =========================
+# Private figure intermediates
+# =========================
+06_figures/01_primary_MR/
+06_figures/02_threshold_sensitivity/
+06_figures/03_finngen_sensitivity/
+06_figures/04_east_asian_sensitivity/
+06_figures/05_reverse_MR/
+06_figures/06_summary/
+06_figures/07_exposure_source_replication/
+06_figures/09_outputs/
+06_figures/10_final/New Microsoft PowerPoint Presentation.pptx
+
+# =========================
+# Private audit tables
+# =========================
+07_tables/01_audit_data/

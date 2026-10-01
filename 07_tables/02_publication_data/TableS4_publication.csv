@@ -1,0 +1,91 @@
+Analysis,Threshold,Method,SNPs,Estimate (95% CI),P value
+MiBioGen Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,Inverse variance weighted,4,OR 1.126 (0.877–1.446),0.353
+MiBioGen Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,Weighted median,4,OR 1.181 (0.876–1.592),0.275
+MiBioGen Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,MR Egger,4,OR 0.208 (0.001–51.379),0.633
+MiBioGen Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,Weighted mode,4,OR 1.211 (0.865–1.695),0.347
+MiBioGen Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,Simple mode,4,OR 1.206 (0.829–1.756),0.400
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,Inverse variance weighted,9,OR 1.275 (0.970–1.677),0.082
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,Weighted median,9,OR 1.320 (0.937–1.859),0.112
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,MR Egger,9,OR 1.543 (0.524–4.541),0.457
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,Weighted mode,9,OR 1.343 (0.896–2.012),0.191
+MiBioGen Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,Simple mode,9,OR 1.354 (0.842–2.178),0.246
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Inverse variance weighted,8,OR 1.044 (0.844–1.291),0.692
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Weighted median,8,OR 1.110 (0.843–1.462),0.456
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,MR Egger,8,OR 0.149 (0.019–1.187),0.122
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Weighted mode,8,OR 1.119 (0.837–1.495),0.474
+MiBioGen Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Simple mode,8,OR 1.134 (0.838–1.534),0.441
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Inverse variance weighted,19,OR 1.042 (0.912–1.190),0.548
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Weighted median,19,OR 0.927 (0.754–1.139),0.470
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,MR Egger,19,OR 0.892 (0.682–1.165),0.412
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Weighted mode,19,OR 0.924 (0.766–1.113),0.416
+MiBioGen Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Simple mode,19,OR 1.263 (0.882–1.810),0.219
+MiBioGen Veillonella → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,Inverse variance weighted,4,OR 1.052 (0.470–2.357),0.901
+MiBioGen Veillonella → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,Weighted median,4,OR 1.107 (0.449–2.733),0.825
+MiBioGen Veillonella → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,MR Egger,4,OR 7.237 (0.000–628225063.024),0.852
+MiBioGen Veillonella → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,Weighted mode,4,OR 1.278 (0.391–4.182),0.712
+MiBioGen Veillonella → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,Simple mode,4,OR 1.270 (0.378–4.270),0.725
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,Inverse variance weighted,9,OR 1.567 (0.815–3.011),0.178
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,Weighted median,9,OR 1.320 (0.558–3.122),0.528
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,MR Egger,9,OR 1.228 (0.233–6.483),0.816
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,Weighted mode,9,OR 1.230 (0.403–3.758),0.726
+MiBioGen Veillonellaceae → FinnGen GC (Alt-E),P ≤ 5 × 10^-6,Simple mode,9,OR 1.270 (0.404–3.994),0.693
+MiBioGen Veillonella → East Asian GC,P ≤ 5 × 10^-6,Inverse variance weighted,4,OR 1.078 (0.821–1.416),0.588
+MiBioGen Veillonella → East Asian GC,P ≤ 5 × 10^-6,Weighted median,4,OR 1.080 (0.784–1.487),0.637
+MiBioGen Veillonella → East Asian GC,P ≤ 5 × 10^-6,MR Egger,4,OR 0.643 (0.002–257.469),0.898
+MiBioGen Veillonella → East Asian GC,P ≤ 5 × 10^-6,Weighted mode,4,OR 1.081 (0.747–1.566),0.707
+MiBioGen Veillonella → East Asian GC,P ≤ 5 × 10^-6,Simple mode,4,OR 1.083 (0.728–1.609),0.721
+MiBioGen Veillonellaceae → East Asian GC,P ≤ 5 × 10^-6,Inverse variance weighted,5,OR 1.223 (0.881–1.700),0.229
+MiBioGen Veillonellaceae → East Asian GC,P ≤ 5 × 10^-6,Weighted median,5,OR 1.321 (0.855–2.041),0.209
+MiBioGen Veillonellaceae → East Asian GC,P ≤ 5 × 10^-6,MR Egger,5,OR 1.101 (0.079–15.383),0.947
+MiBioGen Veillonellaceae → East Asian GC,P ≤ 5 × 10^-6,Weighted mode,5,OR 1.432 (0.822–2.495),0.273
+MiBioGen Veillonellaceae → East Asian GC,P ≤ 5 × 10^-6,Simple mode,5,OR 1.479 (0.822–2.661),0.262
+GCST90018849 GC → MiBioGen Veillonella (reverse),P ≤ 5 × 10^-8,Inverse variance weighted,4,β 0.0034 (-0.1444–0.1511),0.964
+GCST90018849 GC → MiBioGen Veillonella (reverse),P ≤ 5 × 10^-8,Weighted median,4,β 0.0270 (-0.1392–0.1931),0.750
+GCST90018849 GC → MiBioGen Veillonella (reverse),P ≤ 5 × 10^-8,MR Egger,4,β 0.0288 (-0.6880–0.7456),0.944
+GCST90018849 GC → MiBioGen Veillonella (reverse),P ≤ 5 × 10^-8,Weighted mode,4,β 0.1241 (-0.1598–0.4080),0.455
+GCST90018849 GC → MiBioGen Veillonella (reverse),P ≤ 5 × 10^-8,Simple mode,4,β 0.1227 (-0.1542–0.3996),0.449
+GCST90018849 GC → MiBioGen Veillonellaceae (reverse),P ≤ 5 × 10^-8,Inverse variance weighted,4,β -0.0039 (-0.1302–0.1223),0.951
+GCST90018849 GC → MiBioGen Veillonellaceae (reverse),P ≤ 5 × 10^-8,Weighted median,4,β -0.0293 (-0.1534–0.0947),0.643
+GCST90018849 GC → MiBioGen Veillonellaceae (reverse),P ≤ 5 × 10^-8,MR Egger,4,β 0.0293 (-0.5818–0.6403),0.934
+GCST90018849 GC → MiBioGen Veillonellaceae (reverse),P ≤ 5 × 10^-8,Weighted mode,4,β -0.0415 (-0.1733–0.0904),0.581
+GCST90018849 GC → MiBioGen Veillonellaceae (reverse),P ≤ 5 × 10^-8,Simple mode,4,β -0.0506 (-0.1985–0.0973),0.550
+Swedish 2026 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,Inverse variance weighted,4,OR 0.921 (0.653–1.300),0.639
+Swedish 2026 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,Weighted median,4,OR 0.884 (0.596–1.310),0.539
+Swedish 2026 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,MR Egger,4,OR 1.045 (0.343–3.181),0.945
+Swedish 2026 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,Weighted mode,4,OR 0.902 (0.579–1.405),0.680
+Swedish 2026 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,Simple mode,4,OR 0.856 (0.538–1.364),0.560
+Swedish 2026 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,Inverse variance weighted,3,OR 0.878 (0.601–1.283),0.503
+Swedish 2026 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,Weighted median,3,OR 0.900 (0.589–1.374),0.624
+Swedish 2026 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,MR Egger,3,OR 0.904 (0.154–5.300),0.929
+Swedish 2026 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,Weighted mode,3,OR 0.906 (0.599–1.372),0.687
+Swedish 2026 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,Simple mode,3,OR 0.891 (0.551–1.438),0.682
+DMP 2022 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,Inverse variance weighted,4,OR 1.018 (0.901–1.150),0.775
+DMP 2022 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,Weighted median,4,OR 1.022 (0.890–1.173),0.759
+DMP 2022 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,MR Egger,4,OR 0.825 (0.390–1.744),0.664
+DMP 2022 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,Weighted mode,4,OR 1.024 (0.890–1.177),0.765
+DMP 2022 Veillonella → GCST90018849 (primary),P ≤ 5 × 10^-6,Simple mode,4,OR 1.043 (0.865–1.258),0.687
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,Inverse variance weighted,6,OR 1.145 (0.934–1.403),0.192
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,Weighted median,6,OR 1.115 (0.849–1.463),0.434
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,MR Egger,6,OR 0.608 (0.194–1.901),0.440
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,Weighted mode,6,OR 1.109 (0.862–1.428),0.457
+DMP 2022 Veillonellaceae → GCST90018849 (primary),P ≤ 5 × 10^-6,Simple mode,6,OR 1.168 (0.817–1.668),0.433
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Inverse variance weighted,10,OR 0.915 (0.684–1.225),0.553
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Weighted median,10,OR 0.912 (0.628–1.323),0.627
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,MR Egger,10,OR 0.914 (0.381–2.197),0.847
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Weighted mode,10,OR 0.948 (0.656–1.371),0.785
+Swedish 2026 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Simple mode,10,OR 1.043 (0.612–1.777),0.882
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Inverse variance weighted,10,OR 0.925 (0.621–1.377),0.700
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Weighted median,10,OR 0.931 (0.625–1.385),0.723
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,MR Egger,10,OR 1.024 (0.309–3.396),0.970
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Weighted mode,10,OR 0.962 (0.671–1.379),0.836
+Swedish 2026 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Simple mode,10,OR 0.976 (0.525–1.815),0.941
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Inverse variance weighted,6,OR 1.040 (0.933–1.160),0.479
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Weighted median,6,OR 1.026 (0.901–1.169),0.697
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,MR Egger,6,OR 1.004 (0.593–1.701),0.988
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Weighted mode,6,OR 1.026 (0.902–1.166),0.717
+DMP 2022 Veillonella → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Simple mode,6,OR 1.042 (0.886–1.225),0.641
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Inverse variance weighted,12,OR 1.167 (1.045–1.303),0.0062
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Weighted median,12,OR 1.154 (0.993–1.343),0.062
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,MR Egger,12,OR 1.122 (0.699–1.802),0.644
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Weighted mode,12,OR 1.156 (0.976–1.370),0.121
+DMP 2022 Veillonellaceae → GCST90018849 (threshold sensitivity),P ≤ 1 × 10^-5,Simple mode,12,OR 1.182 (0.970–1.441),0.126

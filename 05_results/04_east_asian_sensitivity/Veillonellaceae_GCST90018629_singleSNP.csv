@@ -1,0 +1,8 @@
+"exposure","outcome","id.exposure","id.outcome","samplesize","SNP","b","se","p"
+"Veillonellaceae","East Asian gastric cancer","DkZLFR","QL0lHn",NA,"rs1442060",-0.155311814234355,0.326251303441084,0.634039016377188
+"Veillonellaceae","East Asian gastric cancer","DkZLFR","QL0lHn",NA,"rs2175069",0.261322216147257,0.319277382905048,0.413083043566826
+"Veillonellaceae","East Asian gastric cancer","DkZLFR","QL0lHn",NA,"rs4461038",0.498116097411548,0.435313938716856,0.252512236226918
+"Veillonellaceae","East Asian gastric cancer","DkZLFR","QL0lHn",NA,"rs4797169",0.44077312142416,0.335580700205342,0.189026691537281
+"Veillonellaceae","East Asian gastric cancer","DkZLFR","QL0lHn",NA,"rs79535861",-0.219220988218465,0.676085272087895,0.745748391276369
+"Veillonellaceae","East Asian gastric cancer","DkZLFR","QL0lHn",NA,"All - Inverse variance weighted",0.201617114429511,0.167719259863301,0.229320646948665
+"Veillonellaceae","East Asian gastric cancer","DkZLFR","QL0lHn",NA,"All - MR Egger",0.0962766319550041,1.34540083582088,0.947455779205504

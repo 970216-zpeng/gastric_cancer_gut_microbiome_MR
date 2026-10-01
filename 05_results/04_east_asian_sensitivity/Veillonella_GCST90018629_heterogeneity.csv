@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"taZpuT","QL0lHn","East Asian gastric cancer","Veillonella","MR Egger",0.0590257792030641,2,0.970918362809722
+"taZpuT","QL0lHn","East Asian gastric cancer","Veillonella","Inverse variance weighted",0.0877330656067982,3,0.9932677248435

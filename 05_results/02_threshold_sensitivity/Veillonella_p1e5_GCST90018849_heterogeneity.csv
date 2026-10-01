@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"DC1S5N","GCST90018849","Gastric cancer","Veillonella","MR Egger",2.07262690598954,6,0.912899319775985
+"DC1S5N","GCST90018849","Gastric cancer","Veillonella","Inverse variance weighted",5.48916834104499,7,0.600490694048613

@@ -1,0 +1,9 @@
+"analysis","nsnp","feasible","global_p"
+"Swedish2026_Veillonella_primary_p5e6",4,TRUE,0.8862
+"Swedish2026_Veillonellaceae_primary_p5e6",3,FALSE,NA
+"DMP2022_Veillonella_primary_p5e6",4,TRUE,0.863
+"DMP2022_Veillonellaceae_primary_p5e6",6,TRUE,0.4174
+"Swedish2026_Veillonella_sensitivity_p1e5",10,TRUE,0.8041
+"Swedish2026_Veillonellaceae_sensitivity_p1e5",10,TRUE,0.1835
+"DMP2022_Veillonella_sensitivity_p1e5",6,TRUE,0.6999
+"DMP2022_Veillonellaceae_sensitivity_p1e5",12,TRUE,0.7752

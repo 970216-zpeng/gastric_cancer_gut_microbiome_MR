@@ -1,0 +1,6 @@
+"exposure","outcome","id.exposure","id.outcome","samplesize","SNP","b","se","p"
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonella","ebi-a-GCST90018849","Rq6Sbb",NA,"rs10078575",0.0940269184859005,0.0821238040521002,0.252233557389936
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonella","ebi-a-GCST90018849","Rq6Sbb",NA,"rs2597736",-0.014563321977371,0.0916455780169776,0.87374044241683
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonella","ebi-a-GCST90018849","Rq6Sbb",NA,"rs2853940",0.00286792225086266,0.104114991581106,0.978024475568055
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonella","ebi-a-GCST90018849","Rq6Sbb",NA,"rs9277947",-0.0564161120482132,0.0793255373175164,0.476961949568321
+"Gastric cancer || id:ebi-a-GCST90018849","Veillonella","ebi-a-GCST90018849","Rq6Sbb",NA,"All",0.00337045801857075,0.0753779615945716,0.964335191528553

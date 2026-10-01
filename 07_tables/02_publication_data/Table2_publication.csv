@@ -1,0 +1,11 @@
+Direction,Exposure,Outcome / analysis,Instrument threshold,SNPs,IVW estimate (95% CI),P value
+Forward,Veillonella,GCST90018849 — Primary GC,P ≤ 5 × 10⁻⁶,4,OR 1.13 (0.88–1.45),0.353
+Forward,Veillonellaceae,GCST90018849 — Primary GC,P ≤ 5 × 10⁻⁶,9,OR 1.28 (0.97–1.68),0.082
+Forward,Veillonella,GCST90018849 — Instrument-threshold sensitivity,P ≤ 1 × 10⁻⁵,8,OR 1.04 (0.84–1.29),0.692
+Forward,Veillonellaceae,GCST90018849 — Instrument-threshold sensitivity,P ≤ 1 × 10⁻⁵,19,OR 1.04 (0.91–1.19),0.548
+Forward,Veillonella,FinnGen gastric cancer — Alternative European outcome,P ≤ 5 × 10⁻⁶,4,OR 1.05 (0.47–2.36),0.901
+Forward,Veillonellaceae,FinnGen gastric cancer — Alternative European outcome,P ≤ 5 × 10⁻⁶,9,OR 1.57 (0.82–3.01),0.178
+Forward,Veillonella,GCST90018629 — Cross-ancestry outcome,P ≤ 5 × 10⁻⁶,4,OR 1.08 (0.82–1.42),0.588
+Forward,Veillonellaceae,GCST90018629 — Cross-ancestry outcome,P ≤ 5 × 10⁻⁶,5,OR 1.22 (0.88–1.70),0.229
+Reverse,Gastric cancer,Veillonella,P ≤ 5 × 10⁻⁸,4,β 0.0034 (-0.144 to 0.151),0.964
+Reverse,Gastric cancer,Veillonellaceae,P ≤ 5 × 10⁻⁸,4,β -0.0039 (-0.130 to 0.122),0.951

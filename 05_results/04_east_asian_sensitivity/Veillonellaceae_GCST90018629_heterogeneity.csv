@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"DkZLFR","QL0lHn","East Asian gastric cancer","Veillonellaceae","MR Egger",2.58491230579989,3,0.460140756273056
+"DkZLFR","QL0lHn","East Asian gastric cancer","Veillonellaceae","Inverse variance weighted",2.59113945578752,4,0.628393530566937

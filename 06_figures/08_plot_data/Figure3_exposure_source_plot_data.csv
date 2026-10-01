@@ -1,0 +1,13 @@
+source,taxon,analysis_role,instrument_threshold,nsnp_output,threshold_display,threshold_role,source_order,threshold_order,label,effect,lower,upper,estimate_text,p_text
+MiBioGen,Veillonella,Primary threshold,P <= 5e-6,4,P ≤ 5 × 10⁻⁶,Primary,1,1,MiBioGen — P ≤ 5 × 10⁻⁶,1.1257939609101102,0.8767001977908135,1.4456618643584331,1.13 (0.88–1.45),0.353
+MiBioGen,Veillonella,Secondary threshold sensitivity,P <= 1e-5,8,P ≤ 1 × 10⁻⁵,Secondary,1,2,MiBioGen — P ≤ 1 × 10⁻⁵,1.043873501130128,0.8442427976442528,1.2907091294142587,1.04 (0.84–1.29),0.692
+Swedish 2026,Veillonella,Primary threshold,P <= 5e-6,4,P ≤ 5 × 10⁻⁶,Primary,2,1,Swedish 2026 — P ≤ 5 × 10⁻⁶,0.9209280737664692,0.652614216267593,1.299555688353971,0.92 (0.65–1.30),0.639
+Swedish 2026,Veillonella,Secondary threshold sensitivity,P <= 1e-5,10,P ≤ 1 × 10⁻⁵,Secondary,2,2,Swedish 2026 — P ≤ 1 × 10⁻⁵,0.9154561241010852,0.6838805744526425,1.2254477557356265,0.92 (0.68–1.23),0.553
+DMP 2022,Veillonella,Primary threshold,P <= 5e-6,4,P ≤ 5 × 10⁻⁶,Primary,3,1,DMP 2022 — P ≤ 5 × 10⁻⁶,1.017913560160126,0.901354058552216,1.1495460703002296,1.02 (0.90–1.15),0.775
+DMP 2022,Veillonella,Secondary threshold sensitivity,P <= 1e-5,6,P ≤ 1 × 10⁻⁵,Secondary,3,2,DMP 2022 — P ≤ 1 × 10⁻⁵,1.04010173574643,0.932787153824998,1.1597625634815478,1.04 (0.93–1.16),0.479
+MiBioGen,Veillonellaceae,Primary threshold,P <= 5e-6,9,P ≤ 5 × 10⁻⁶,Primary,1,1,MiBioGen — P ≤ 5 × 10⁻⁶,1.2754184151325156,0.9700059205884148,1.6769919637937587,1.28 (0.97–1.68),0.082
+MiBioGen,Veillonellaceae,Secondary threshold sensitivity,P <= 1e-5,19,P ≤ 1 × 10⁻⁵,Secondary,1,2,MiBioGen — P ≤ 1 × 10⁻⁵,1.0417067518261287,0.9118299287404228,1.1900826268108406,1.04 (0.91–1.19),0.548
+Swedish 2026,Veillonellaceae,Primary threshold,P <= 5e-6,3,P ≤ 5 × 10⁻⁶,Primary,2,1,Swedish 2026 — P ≤ 5 × 10⁻⁶,0.878442919320432,0.6014274838728333,1.2830507138369558,0.88 (0.60–1.28),0.503
+Swedish 2026,Veillonellaceae,Secondary threshold sensitivity,P <= 1e-5,10,P ≤ 1 × 10⁻⁵,Secondary,2,2,Swedish 2026 — P ≤ 1 × 10⁻⁵,0.9248042413581168,0.6211998082463559,1.376791933095351,0.92 (0.62–1.38),0.700
+DMP 2022,Veillonellaceae,Primary threshold,P <= 5e-6,6,P ≤ 5 × 10⁻⁶,Primary,3,1,DMP 2022 — P ≤ 5 × 10⁻⁶,1.1449590270762289,0.934357197491208,1.403029994528061,1.14 (0.93–1.40),0.192
+DMP 2022,Veillonellaceae,Secondary threshold sensitivity,P <= 1e-5,12,P ≤ 1 × 10⁻⁵,Secondary,3,2,DMP 2022 — P ≤ 1 × 10⁻⁵,1.1667421072802333,1.0448512034267772,1.302852636275992,1.17 (1.04–1.30),0.006
